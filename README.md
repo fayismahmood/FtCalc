@@ -12,5 +12,11 @@ pip install PyQt5
 ```sh
 py Main.py
 ```
+**The calculator Application is made for an online competetion conducted by CrossRoads**
 
+This calculator will work to find square,Multiplication,adding,subtracting,dividing 
+you can clear and use backspace in this
+
+
+square root,pow,redo,undo keys wouldnt be working now
 
