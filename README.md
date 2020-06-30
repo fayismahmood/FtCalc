@@ -1,5 +1,9 @@
 # FtCalc
-This is a Caliculator based on Pyqt5.You can use this after installing Pyqt5 using pip
+![Drag Racing](Untitled.png)
+
+
+
+**This is a Caliculator based on Pyqt5.You can use this after installing Pyqt5 using pip**
 ## STEP 1
 
 **Install pyqt5 using pip**
